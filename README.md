@@ -4,13 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is made on Flutter using Dart. This project allows you to select gender, height, age, weight and then apply BMI formula (weight/height^2) height in cm but internal coding convert it to meter also tells you are NORMAL, OVER-WEIGHT, UNDER-WEIGHT also changes colors according to these three category.
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/2faa2f1b-b273-47a2-9c85-8291ebed2da7
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
